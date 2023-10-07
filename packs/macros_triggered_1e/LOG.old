@@ -1,5 +1,0 @@
-2023/10/07-12:56:54.563 5f94 Log #8: 0 ops saved to Table #9 OK
-2023/10/07-12:56:54.564 5f94 Archiving D:\Foundry\data\Data\systems\mosh\packs\macros_triggered_1e/000008.log: OK
-2023/10/07-12:56:54.564 5f94 Table #5: 128 entries OK
-2023/10/07-12:56:54.573 5f94 Archiving D:\Foundry\data\Data\systems\mosh\packs\macros_triggered_1e/MANIFEST-000007: OK
-2023/10/07-12:56:54.582 5f94 **** Repaired leveldb D:\Foundry\data\Data\systems\mosh\packs\macros_triggered_1e; recovered 1 files; 39821 bytes. Some data may have been lost. ****

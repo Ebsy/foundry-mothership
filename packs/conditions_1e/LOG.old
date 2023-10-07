@@ -1,5 +1,0 @@
-2023/10/07-12:56:54.482 6fcc Log #13: 0 ops saved to Table #14 OK
-2023/10/07-12:56:54.482 6fcc Archiving D:\Foundry\data\Data\systems\mosh\packs\conditions_1e/000013.log: OK
-2023/10/07-12:56:54.483 6fcc Table #9: 49 entries OK
-2023/10/07-12:56:54.491 6fcc Archiving D:\Foundry\data\Data\systems\mosh\packs\conditions_1e/MANIFEST-000012: OK
-2023/10/07-12:56:54.500 6fcc **** Repaired leveldb D:\Foundry\data\Data\systems\mosh\packs\conditions_1e; recovered 1 files; 14532 bytes. Some data may have been lost. ****
