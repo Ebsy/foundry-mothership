@@ -1,3 +1,5 @@
-2023/10/01-08:46:00.575 7adc Recovering log #7
-2023/10/01-08:46:00.597 7adc Delete type=0 #7
-2023/10/01-08:46:00.597 7adc Delete type=3 #5
+2023/10/07-12:56:54.647 6fcc Log #13: 0 ops saved to Table #14 OK
+2023/10/07-12:56:54.647 6fcc Archiving D:\Foundry\data\Data\systems\mosh\packs\conditions_0e/000013.log: OK
+2023/10/07-12:56:54.647 6fcc Table #9: 35 entries OK
+2023/10/07-12:56:54.656 6fcc Archiving D:\Foundry\data\Data\systems\mosh\packs\conditions_0e/MANIFEST-000012: OK
+2023/10/07-12:56:54.665 6fcc **** Repaired leveldb D:\Foundry\data\Data\systems\mosh\packs\conditions_0e; recovered 1 files; 8499 bytes. Some data may have been lost. ****
