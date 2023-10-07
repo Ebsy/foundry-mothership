@@ -78,48 +78,48 @@ export class MothershipActor extends Actor {
       table: {
         death_save: {
           roll: {
-            android: `You knock on death's door.`,
-            human: `You knock on death's door.`
+            android: game.i18n.localize("MOSH.flavourText.deathSave.android"),
+            human: game.i18n.localize("MOSH.flavourText.deathSave.human")
           }
         },
         blunt_force_wound: {
           roll: {
-            android: `You brace for the worst.`,
-            human: `You brace for the worst.`
+            android: game.i18n.localize("MOSH.flavourText.bluntForceWound.android"),
+            human: game.i18n.localize("MOSH.flavourText.bluntForceWound.human")
           }
         },
         bleeding_wound: {
           roll: {
-            android: `You brace for the worst.`,
-            human: `You brace for the worst.`
+            android: game.i18n.localize("MOSH.flavourText.bleedingWound.android"),
+            human: game.i18n.localize("MOSH.flavourText.bleedingWound.human")
           }
         },
         gunshot_wound: {
           roll: {
-            android: `You brace for the worst.`,
-            human: `You brace for the worst.`
+            android: game.i18n.localize("MOSH.flavourText.gunshotWound.android"),
+            human: game.i18n.localize("MOSH.flavourText.gunshotWound.human")
           }
         },
         fire_explosives_wound: {
           roll: {
-            android: `You brace for the worst.`,
-            human: `You brace for the worst.`
+            android: game.i18n.localize("MOSH.flavourText.fireExplosivesWound.android"),
+            human: game.i18n.localize("MOSH.flavourText.fireExplosivesWound.human")
           }
         },
         gore_massive_wound: {
           roll: {
-            android: `You brace for the worst.`,
-            human: `You brace for the worst.`
+            android: game.i18n.localize("MOSH.flavourText.goreMassiveWound.android"),
+            human: game.i18n.localize("MOSH.flavourText.goreMassiveWound.human")
           }
         },
         panic_check: {
           roll: {
-            android: `You lose motor control for a moment as your sensory inputs flicker.`,
-            human: `Your heartbeat races out of control and you start to feel dizzy.`
+            android: game.i18n.localize("MOSH.flavourText.panicCheck.android"),
+            human: game.i18n.localize("MOSH.flavourText.panicCheck.human")
           },
           success: {
-            android: `System resources free up and you regain control.`,
-            human: `You take a deep breath and regain your composure.`
+            android: game.i18n.localize("MOSH.flavourText.panicCheck.success.android"),
+            human: game.i18n.localize("MOSH.flavourText.panicCheck.success.human")
           }
         }
       },

@@ -1,5 +1,44 @@
 {
-    "Mosh.ActorName" : "Name",
-    "Mosh.ActorBackground" : "Background",
-    "Mosh.ActorPronouns" : "Pronouns"
+    "MOSH": {
+        "actor": {
+            "name": "Name",
+            "background": "Background",
+            "pronouns": "Pronouns"
+        },
+        "flavourText": {
+            "deathSave": {
+                "android": "You knock on death's door.",
+                "human": "You knock on death's door."
+            },
+            "bluntForceWound": {
+                "android": "You brace for the worst.",
+                "human": "You brace for the worst."
+            },
+            "bleedingWound": {
+                "android": "You brace for the worst.",
+                "human": "You brace for the worst."
+            },
+            "gunshotWound": {
+                "android": "You brace for the worst.",
+                "human": "You brace for the worst."
+            },
+            "fireExplosivesWound": {
+                "android": "You brace for the worst.",
+                "human": "You brace for the worst."
+            },
+            "goreMassiveWound": {
+                "android": "You brace for the worst.",
+                "human": "You brace for the worst."
+            },
+            "panicCheck": {
+                "android": "You lose motor control for a moment as your sensory inputs flicker.",
+                "human": "Your heartbeat races out of control and you start to feel dizzy.",
+                "success": {
+                    "android": "System resources free up and you regain control.",
+                    "human": "You take a deep breath and regain your composure."
+                }
+            }
+        }
+
+    }
 }
